@@ -1,0 +1,24 @@
+.debit {
+    background-color:lightcoral;
+}
+
+.credit {
+    background-color:lightgreen;
+}
+
+.remove-decoration {
+    text-decoration: none;
+}
+
+.selected {
+    color:green;
+}
+
+.back-balance {
+    background: #a9a9a9eb;
+}
+
+body {
+    background: #a9a9a9eb;
+}
+
